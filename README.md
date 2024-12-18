@@ -1,6 +1,8 @@
 # Zendesk Data Scraper
 
-This project is a web scraping tool built with Puppeteer for extracting article content from Zendesk Guide pages. The script automates the process of navigating to a Zendesk page and saving article content to a text file.
+Note: This scrapper tool is build for educational purpose.
+
+This project is a web scraping tool built with Puppeteer for extracting article content from Zendesk Guide pages is build just for educational purpose. The script automates the process of navigating to a Zendesk page and saving article content to a text file.
 
 ## Features
 - Automates article scraping from Zendesk Guide pages.
